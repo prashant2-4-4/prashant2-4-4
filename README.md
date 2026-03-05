@@ -5,21 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashant2-4-4" alt="prashant2-4-4" /></a> </p>
 
-- 🔭 I’m currently working on **Neural machine translation**
+- 🔭 I’m currently working on Eductional App for Autism Children
 
-- 🌱 I’m currently learning **Deep Learning.**
+- 🌱 I’m currently learning Personalise Recommendation for Autism Children
 
-- 👯 I’m looking to collaborate on **Deep Learning Project**
+- 👯 I’m looking to collaborate on RecSYS.
 
-- 🤝 I’m looking for **Internship opportunity**
-
-- 💬 Ask me about **Machine Learning ,NLP , CV.**
+- 💬 Ask me about **Machine Learning ,NLP , RecSYS**
 
 - 📫 How to reach me **prashantpathak200104@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DCbKiQ3x-7QkCKf_HDVF6AWcQN40he-z/view?usp=sharing](https://drive.google.com/file/d/1DCbKiQ3x-7QkCKf_HDVF6AWcQN40he-z/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ Fun fact **I think I am Extrovert.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
